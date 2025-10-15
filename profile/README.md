@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**MACH** is a research group at **Chalmers University of Technology** dedicated to advancing the frontiers of computer science and engineering.
+**MACH Research Lab** is a research group at **Chalmers University of Technology** dedicated to advancing the frontiers of computer science and engineering.
 
 ## About Us
 
