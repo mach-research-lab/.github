@@ -1,21 +1,32 @@
 ## Hi there 👋
 
-We are Accelerators Chalmers
 
-Welcome to the official GitHub repository of the Accelerators lab, a university research group dedicated to advancing knowledge in computer science and engineering.
+**MACH** is a research group at **Chalmers University of Technology** dedicated to advancing the frontiers of computer science and engineering.
 
-About Us
+## About Us
 
-The Accelerators Lab brings together faculty, graduate students, and collaborators to explore cutting-edge topics in:
+The MACH Research Lab brings together faculty, graduate students, and collaborators to explore innovative ideas in computing systems.  
+Our mission is to bridge theory and practice — producing research that advances both scientific understanding and real-world technology.
 
-Computer Architecture
+## Research Areas
 
-Hardware/Software Co-Design
+We conduct research in several key areas:
 
-Machine Learning and AI Systems
+- **Computer Architecture**  
+  Exploring novel processor and system designs to improve performance, scalability, and efficiency.
 
-Quantum Computing and Error Correction
+- **Hardware/Software Co-Design**  
+  Integrating hardware innovation with software development to create optimized computing solutions.
 
-High-Performance and Energy-Efficient Systems
+- **Machine Learning and AI Systems**  
+  Designing architectures and frameworks that accelerate machine learning and intelligent computation.
 
-We aim to bridge theory and practice, producing research that advances both scientific understanding and real-world impact.
+- **Quantum Computing and Error Correction**  
+  Developing reliable and scalable quantum architectures and error correction techniques.
+
+- **High-Performance and Energy-Efficient Systems**  
+  Building sustainable computing systems for next-generation performance.
+
+## Vision
+
+Our goal is to design computing systems that are faster, smarter, and more sustainable — shaping the future of both classical and quantum computing..
